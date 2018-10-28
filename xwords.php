@@ -1,3 +1,8 @@
+<?php
+error_reporting(0);
+ini_set("display_errors", 0);
+require_once("logger.php");
+?>
 <!DOCTYPE HTML>
 <!--
 	Verti by HTML5 UP
@@ -7,9 +12,9 @@
 <html>
 <head>
     <title>Boat Map</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <link rel="stylesheet" href="assets/css/main.css"/>
 </head>
 <body class="is-preload homepage">
 <div id="page-wrapper">
@@ -31,13 +36,13 @@
         <div id="banner" class="box container">
             <div class="row">
                 <div class="col-7 col-12-medium">
-                    <a href="#" class="image featured"><img src="images/xwords.png" alt="" /></a>
+                    <a href="#" class="image featured"><img src="images/xwords.png" alt=""/></a>
                     <!-- <p>What is the hidden word?</p> -->
                 </div>
             </div>
         </div>
     </div>
-    
+
 </div>
 
 <!-- Scripts -->
