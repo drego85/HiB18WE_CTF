@@ -40,11 +40,13 @@ require_once("logger.php");
                     <a href="#" class="image featured"><img src="images/mathquiz.png" alt="Solve and proceed ;)" /></a>
                     <!--
 
-                    The number of steps of a staircase is such that climbing the steps 2 to 2 remains one  step,
+                    The number of steps of a staircase is such that climbing the steps 2 to 2 remains one step,
                     climbing them to 3 to 3 remains one step, climbing them to 4 to 4 remains one step, climbing them
                     to 5 to 5 remains a step. How many steps make up the staircase?
 
                     (minor number and written in letters)
+
+                    Go to number.php
 
                     -->
                 </div>

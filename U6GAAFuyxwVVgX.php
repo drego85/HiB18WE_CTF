@@ -46,7 +46,7 @@ require_once("logger.php");
                         $current .= date("Y-m-d h:i:sa") . " - " . htmlspecialchars($_POST["realname"]) . " - " . htmlspecialchars($_POST["email"]) . "\n";
                         file_put_contents($file, $current);
 
-                        echo '<a href="#" class="image featured"><img src="images/crossedfingers.png" alt="Solve and proceed ;)" /></a>';
+                        echo '<a href="#" class="image featured"><img src="images/crossedfingers.png" /></a>';
                     } else {
 
                         echo '

@@ -37,7 +37,7 @@ require_once("logger.php");
             <div class="row">
                 <div class="col-7 col-12-medium">
                     <a href="#" class="image featured"><img src="images/sudoku9x9.png" alt="Solve and proceed ;)" /></a>
-                    <!-- <p>What is the hidden box?</p> -->
+                    <!-- <p> What is the hidden box? Go to yellow-box.php </p> -->
                 </div>
             </div>
         </div>

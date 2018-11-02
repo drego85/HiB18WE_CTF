@@ -37,7 +37,7 @@ require_once("logger.php");
             <div class="row">
                 <div class="col-7 col-12-medium">
                     <a href="#" class="image featured"><img src="images/xwords.png" alt=""/></a>
-                    <!-- <p>What is the hidden word?</p> -->
+                    <!-- <p> What is the hidden word? Go to hidden-word.php </p> -->
                 </div>
             </div>
         </div>
